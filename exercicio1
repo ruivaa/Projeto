@@ -1,0 +1,12 @@
+#!/bin/bash
+clear
+
+echo 'Digite seu nome: '
+read Nome
+echo 'Digite sua idade: '
+read Idade
+echo 'Digite sua altura: '
+read Altura
+echo 'Obrigada pelas informações!'
+echo $Nome $Idade $Altura
+
